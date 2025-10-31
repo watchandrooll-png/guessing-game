@@ -6,7 +6,7 @@ def game():
         try:
             guess = int(input("Guess a number 1-100 \nchoice: "))
         except ValueError:
-            print("enter an int you fuckingggg retard")
+            print("enter an int you  retard")
             continue
     
         if guess > answer:
